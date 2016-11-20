@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A51D27841DE18B8D00CB9525 /* 180.png in Resources */ = {isa = PBXBuildFile; fileRef = A51D27831DE18B8D00CB9525 /* 180.png */; };
 		A5230D401DE1776A00865749 /* Facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = A5230D3B1DE1776A00865749 /* Facebook.png */; };
 		A5230D411DE1776A00865749 /* Start.png in Resources */ = {isa = PBXBuildFile; fileRef = A5230D3C1DE1776A00865749 /* Start.png */; };
 		A5230D421DE1776A00865749 /* syatta.png in Resources */ = {isa = PBXBuildFile; fileRef = A5230D3D1DE1776A00865749 /* syatta.png */; };
@@ -40,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A51D27831DE18B8D00CB9525 /* 180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 180.png; sourceTree = "<group>"; };
 		A5230D3B1DE1776A00865749 /* Facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Facebook.png; sourceTree = "<group>"; };
 		A5230D3C1DE1776A00865749 /* Start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Start.png; sourceTree = "<group>"; };
 		A5230D3D1DE1776A00865749 /* syatta.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = syatta.png; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				A532990F1DE049D1000F910D /* あ.png */,
 				A53299121DE08D7A000F910D /* oosama.png */,
 				A5230D3B1DE1776A00865749 /* Facebook.png */,
+				A51D27831DE18B8D00CB9525 /* 180.png */,
 				A5230D4D1DE185D100865749 /* 120.png */,
 				A5230D471DE180D200865749 /* IconTOP.png */,
 				A5230D3C1DE1776A00865749 /* Start.png */,
@@ -222,6 +225,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A51D27841DE18B8D00CB9525 /* 180.png in Resources */,
 				A592F07E1DDFDF0B0087AC01 /* LaunchScreen.storyboard in Resources */,
 				A5230D401DE1776A00865749 /* Facebook.png in Resources */,
 				A592F07B1DDFDF0B0087AC01 /* Assets.xcassets in Resources */,
